@@ -46,9 +46,9 @@ What seasonal patterns or fluctuations can be identified in Plato’s Pizza’s 
 
 RESEARCH OBJECTIVES<img width="1103" height="158" alt="image" src="https://github.com/user-attachments/assets/d4a5ccb3-c055-4d70-8bd2-6a4d1a75160b" />
 
-To create an insightful sales performance report that would be useful for strategic business decision making that will enhance the company’s immediate and futuristic objectives performance towards realizing their mission and vision statements.  HELP PUT A PROFESSIONAL TOUCH, PLEASE
-Presentation of data cleaning processs, starting with:
-A CSV Unclean data set in an excel spreadsheep
+This Resarch objective is to create an insightful sales performance report that would be useful for strategic business decision making that will enhance the company’s immediate and futuristic objectives performance towards realizing their mission and vision statements. 
+
+Presentation of data cleaning processs, starting witha CSV Unclean data set in an excel spreadsheep
 <img width="1999" height="897" alt="image" src="https://github.com/user-attachments/assets/5bc0849a-a138-4ce6-8d17-4a226c38861d" />
 
 
