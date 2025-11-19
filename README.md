@@ -74,6 +74,10 @@ POWER BI  CLEANED DATASET VIA PQE <img width="1552" height="140" alt="image" src
 <img width="1045" height="972" alt="image" src="https://github.com/user-attachments/assets/6df69dfd-8f38-4729-935d-43160f9e5527" />
 
 
+INSIGHT  AND  ANALYSIS<img width="1136" height="158" alt="image" src="https://github.com/user-attachments/assets/1f847967-1cbe-4b57-a872-0462e080c3b7" />
+
+<img width="1923" height="916" alt="image" src="https://github.com/user-attachments/assets/9224b46e-ee70-4871-86f4-c84ac873a96b" />
+
 
 
 
