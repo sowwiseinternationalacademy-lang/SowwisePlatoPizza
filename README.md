@@ -3,6 +3,7 @@
 Plato’s Pizza SALES PERFORMANCE ANALYSIS 2015<img width="2112" height="338" alt="image" src="https://github.com/user-attachments/assets/b550192a-5353-4f04-aaa3-0dcaad6fe3f1" />
 
 INTRODUCTION<img width="740" height="158" alt="image" src="https://github.com/user-attachments/assets/cf51876d-468a-4831-ae08-8c006ba3ff77" />
+
 This project focuses on conducting a comprehensive analysis of Plato’s Pizza sales performance, with the aim of generating a strategic and data-driven report that will help reposition 
 the business for improved profitability and operational efficiency. The analysis seeks to uncover meaningful insights that can guide management in making informed decisions about sales 
 optimization, resource allocation, and customer engagement.The study examines key performance indicators (KPIs) across the business cycle, including identifying: 
@@ -13,6 +14,7 @@ optimization, resource allocation, and customer engagement.The study examines ke
 5. Sales seasonality in the year 2015, enabling the business to understand monthly and seasonal fluctuations that influence demand, and to plan targeted marketing activities accordingly.
 Ultimately, the goal of this project is to empower Plato’s Pizza with actionable insights amd allowing the brand to strategically position itself for increased sales, enhanced customer 
 satisfaction, and more efficient operations.
+
 
  PROBLEM STATEMENT<img width="1027" height="158" alt="image" src="https://github.com/user-attachments/assets/96e8d2b5-0803-4e41-a2c6-eba069cafc32" /
 
