@@ -30,7 +30,7 @@ To ascertain Plato’s Pizza’s total operational cost for the year, enabling a
 
 To examine sales seasonality throughout the year, identifying patterns and fluctuations that influence demand.
 
-
+**
       RESEARCH QUESTIONS<img width="1065" height="158" alt="image" src="https://github.com/user-attachments/assets/6de7d4a4-0900-4641-b723-e66be150f188" />
 
 Which specific days and times does Plato’s Pizza experience the highest and lowest levels of customer activity?
@@ -45,12 +45,9 @@ What seasonal patterns or fluctuations can be identified in Plato’s Pizza’s 
 
 
 RESEARCH OBJECTIVES<img width="1103" height="158" alt="image" src="https://github.com/user-attachments/assets/d4a5ccb3-c055-4d70-8bd2-6a4d1a75160b" />
-
 This Resarch objective is to create an insightful sales performance report that would be useful for strategic business decision making that will enhance the company’s immediate and futuristic objectives performance towards realizing their mission and vision statements. 
 
 DATA CLEANING PROCESS <img width="1186" height="158" alt="image" src="https://github.com/user-attachments/assets/62f4014d-a170-48bd-af55-9e23e5951881" />
-
-
 I Created  a  Related Dax command function  that was used to determined the Pizzaprice that was not given
 The Average Order Value was determined using the Dax calcuated column
 Total Revenue was determined using the Calculated New Measure
@@ -58,7 +55,18 @@ Creating and replicating the dashboard reports using , different visual tools, C
 Extracted , transformed and Loaded the four (4) tables into PBI via PQE from sourced Excel worksheets, ensuring a structured data set for analysis Reacreated the model cardinality  by connecting the sub dimentional  tables (Order id by date tab,l and Order ID by time table) to the Orders Table , after a default SNOW FLAKE model was established  by PBI  
 <img width="4358" height="186" alt="image" src="https://github.com/user-attachments/assets/abb21f2d-a7a1-493d-b190-8a0c84cf8cf4" />
 
- CSV Unclean data set in an excel spreadsheep(unstructured dataset)
+CSV UNCLEAN DATA SETIN AN ECEL SPREADSHEET(UNSTRUCRURD TABLE)
+
 <img width="1999" height="897" alt="image" src="https://github.com/user-attachments/assets/5bc0849a-a138-4ce6-8d17-4a226c38861d" />
+
+EXCEL CLEANED DATASET<img width="1185" height="158" alt="image" src="https://github.com/user-attachments/assets/0c2e99c9-4cfb-4877-b156-d8d21fed52f2" />
+
+<img width="1007" height="981" alt="image" src="https://github.com/user-attachments/assets/d48ba597-8814-45e8-8a82-52c38879a02e" />
+
+POWER BI  CLEANED DATASET VIA PQE <img width="1552" height="140" alt="image" src="https://github.com/user-attachments/assets/33252999-7441-4c33-960d-cb5ccebd778c" />
+
+
+
+
 
 
