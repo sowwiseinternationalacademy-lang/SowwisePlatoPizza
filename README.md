@@ -1,14 +1,14 @@
 # SowwisePlatoPizza
 
-INTRODUCTION
+Plato’s Pizza SALES PERFORMANCE ANALYSIS 2015<img width="2112" height="338" alt="image" src="https://github.com/user-attachments/assets/b550192a-5353-4f04-aaa3-0dcaad6fe3f1" />
+
+INTRODUCTION<img width="740" height="158" alt="image" src="https://github.com/user-attachments/assets/cf51876d-468a-4831-ae08-8c006ba3ff77" />
 
 This project focuses on conducting a comprehensive analysis of Plato’s Pizza sales performance, with the aim of generating a strategic and data-driven report that will help reposition 
 
 the business for improved profitability and operational efficiency. The analysis seeks to uncover meaningful insights that can guide management in making informed decisions about sales 
 
-optimization, resource allocation, and customer engagement.
-
-The study examines key performance indicators (KPIs) across the business cycle, including identifying:
+optimization, resource allocation, and customer engagement.The study examines key performance indicators (KPIs) across the business cycle, including identifying:
 
 The busiest and least busy days and times of operation, to support better staff scheduling, inventory planning, and workflow management.
 
@@ -80,6 +80,42 @@ POWER BI  CLEANED DATASET VIA PQE <img width="1552" height="140" alt="image" src
 INSIGHT  AND  ANALYSIS<img width="1136" height="158" alt="image" src="https://github.com/user-attachments/assets/1f847967-1cbe-4b57-a872-0462e080c3b7" />
 
 <img width="1923" height="916" alt="image" src="https://github.com/user-attachments/assets/9224b46e-ee70-4871-86f4-c84ac873a96b" />
+
+PLATO’S PIZZA SALES INSIGHT (SEASONALITY TREND)<img width="2509" height="167" alt="image" src="https://github.com/user-attachments/assets/89c91ede-c592-4152-a17a-46a9c40d0419" />
+
+<img width="2009" height="892" alt="image" src="https://github.com/user-attachments/assets/2118c8f3-5f99-46e8-bb65-b543a4f767e7" />
+
+DATA VISUALIZATION <img width="1067" height="167" alt="image" src="https://github.com/user-attachments/assets/010366eb-269b-43d9-b0cb-c1f68de358b4" />
+
+<img width="1981" height="943" alt="image" src="https://github.com/user-attachments/assets/074d4566-2d3f-4efa-9fc7-398cce12bc26" />
+
+RECOMMENDATION<img width="896" height="158" alt="image" src="https://github.com/user-attachments/assets/abe6e672-7d84-4019-b2cc-f6519c397a71" />
+
+I  would advice that Plato Pizza should adopt  and implement these strategies: for sustainability, growth and expansion:
+Understand the customers product preferences , terms as well as the time to avoid overstocking and persistent low sales on certain product categories 
+Analyze customers feed backs and identify pain points in order to improve product  values for customers satisfaction  as well as profits optimization
+Optimize marketing and sales efforts by targeting the right audience, enhancing brand visibility  ,offering  loyalty incentives, encourage Upsell and Cross sell and stay updated in sales trends for each of the product category and product lines.
+Finally , use sales metrics as key KPI's  to evaluate the  products sales performances on daily, weekly monthly, quarterly , half yearly and yearly for strategic business decision makings.
+
+<img width="3718" height="434" alt="image" src="https://github.com/user-attachments/assets/60f8701e-6a80-4e26-8644-ca2da174df12" />
+
+LIMITATIONS<img width="633" height="158" alt="image" src="https://github.com/user-attachments/assets/7677a81e-9709-44a1-b59c-314f7b32b7a8" />
+
+Unrelated tables 
+Identification and implementation of they right command functions , related functions, calculated measures, tables and columns syntax
+Time consuming due to the technicality of the dataset 
+<img width="2805" height="267" alt="image" src="https://github.com/user-attachments/assets/e90bb032-872d-4611-a417-df6d351d8331" />
+
+CONCLUSION<img width="647" height="158" alt="image" src="https://github.com/user-attachments/assets/7c294b2a-5315-4391-9bf5-171c36138ee1" />
+
+In order to support Plato's brand repositioning in the pizza industry, it is imperative that the company use strategic KPIs to assess business performance on a daily, weekly, monthly, quarterly, and annual basis. This is because the pizza industry is a global one that requires sustainability, growth, and expansion.  Based on consumer preferences and seasonality, Plato can therefore convert the best items into cash cows.
+<img width="8372" height="105" alt="image" src="https://github.com/user-attachments/assets/0b92bb24-5b23-417f-a0d7-345560de5d60" />
+
+
+
+
+
+
 
 
 
