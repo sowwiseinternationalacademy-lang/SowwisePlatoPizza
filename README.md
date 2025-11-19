@@ -1,5 +1,9 @@
 # SowwisePlatoPizza
-This project focuses on conducting a comprehensive analysis of Plato’s Pizza sales performance, with the aim of generating a strategic and data-driven report that will help reposition the business for improved profitability and operational efficiency. The analysis seeks to uncover meaningful insights that can guide management in making informed decisions about sales optimization, resource allocation, and customer engagement.
+This project focuses on conducting a comprehensive analysis of Plato’s Pizza sales performance, with the aim of generating a strategic and data-driven report that will help reposition 
+
+the business for improved profitability and operational efficiency. The analysis seeks to uncover meaningful insights that can guide management in making informed decisions about sales 
+
+optimization, resource allocation, and customer engagement.
 
 The study examines key performance indicators (KPIs) across the business cycle, including identifying:
 
@@ -14,8 +18,6 @@ Total revenue generated within the period under review, providing insight into t
 Sales seasonality in the year 2015, enabling the business to understand monthly and seasonal fluctuations that influence demand, and to plan targeted marketing activities accordingly.
 
 Ultimately, the goal of this project is to empower Plato’s Pizza with actionable insights—allowing the brand to strategically position itself for increased sales, enhanced customer satisfaction, and more efficient operations.
-#### Sowwise
-**Plato**
 
       PROBLEM STATEMENT<img width="1027" height="158" alt="image" src="https://github.com/user-attachments/assets/cbc64511-8288-4a5f-8880-da6fcb0c93f9" />
       To identify the specific days and times when Plato’s Pizza experiences its highest and lowest customer traffic, in order to understand operational peak periods.
@@ -53,7 +55,8 @@ The Average Order Value was determined using the Dax calcuated column
 Total Revenue was determined using the Calculated New Measure
 Creating and replicating the dashboard reports using , different visual tools, Card visuals plus calculated Measures, and Sigma values  ,Filters, Excel Pivot tables, images ,text box  amongst others
 Extracted , transformed and Loaded the four (4) tables into PBI via PQE from sourced Excel worksheets, ensuring a structured data set for analysis Reacreated the model cardinality  by connecting the sub dimentional  tables (Order id by date tab,l and Order ID by time table) to the Orders Table , after a default SNOW FLAKE model was established  by PBI  
-<img width="4358" height="186" alt="image" src="https://github.com/user-attachments/assets/abb21f2d-a7a1-493d-b190-8a0c84cf8cf4" />
+<img width="
+      4358" height="186" alt="image" src="https://github.com/user-attachments/assets/abb21f2d-a7a1-493d-b190-8a0c84cf8cf4" />
 
 CSV UNCLEAN DATA SETIN AN ECEL SPREADSHEET(UNSTRUCRURD TABLE)
 
@@ -64,6 +67,11 @@ EXCEL CLEANED DATASET<img width="1185" height="158" alt="image" src="https://git
 <img width="1007" height="981" alt="image" src="https://github.com/user-attachments/assets/d48ba597-8814-45e8-8a82-52c38879a02e" />
 
 POWER BI  CLEANED DATASET VIA PQE <img width="1552" height="140" alt="image" src="https://github.com/user-attachments/assets/33252999-7441-4c33-960d-cb5ccebd778c" />
+
+
+<img width="966" height="972" alt="image" src="https://github.com/user-attachments/assets/277a7ec9-d525-474f-a827-25cf3b42b245" />
+
+<img width="1045" height="972" alt="image" src="https://github.com/user-attachments/assets/6df69dfd-8f38-4729-935d-43160f9e5527" />
 
 
 
