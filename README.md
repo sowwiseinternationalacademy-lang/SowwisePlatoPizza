@@ -1,4 +1,7 @@
 # SowwisePlatoPizza
+
+INTRODUCTION
+
 This project focuses on conducting a comprehensive analysis of Plato’s Pizza sales performance, with the aim of generating a strategic and data-driven report that will help reposition 
 
 the business for improved profitability and operational efficiency. The analysis seeks to uncover meaningful insights that can guide management in making informed decisions about sales 
@@ -19,8 +22,8 @@ Sales seasonality in the year 2015, enabling the business to understand monthly 
 
 Ultimately, the goal of this project is to empower Plato’s Pizza with actionable insights—allowing the brand to strategically position itself for increased sales, enhanced customer satisfaction, and more efficient operations.
 
-      PROBLEM STATEMENT<img width="1027" height="158" alt="image" src="https://github.com/user-attachments/assets/cbc64511-8288-4a5f-8880-da6fcb0c93f9" />
-      To identify the specific days and times when Plato’s Pizza experiences its highest and lowest customer traffic, in order to understand operational peak periods.
+ PROBLEM STATEMENT<img width="1027" height="158" alt="image" src="https://github.com/user-attachments/assets/96e8d2b5-0803-4e41-a2c6-eba069cafc32" />
+
 
 To determine the best-selling and worst-selling pizza products within the year, with the aim of assessing customer preferences and product performance.
 
