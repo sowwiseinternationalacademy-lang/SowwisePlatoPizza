@@ -3,23 +3,14 @@
 Plato’s Pizza SALES PERFORMANCE ANALYSIS 2015<img width="2112" height="338" alt="image" src="https://github.com/user-attachments/assets/b550192a-5353-4f04-aaa3-0dcaad6fe3f1" />
 
 INTRODUCTION<img width="740" height="158" alt="image" src="https://github.com/user-attachments/assets/cf51876d-468a-4831-ae08-8c006ba3ff77" />
-
 This project focuses on conducting a comprehensive analysis of Plato’s Pizza sales performance, with the aim of generating a strategic and data-driven report that will help reposition 
-
 the business for improved profitability and operational efficiency. The analysis seeks to uncover meaningful insights that can guide management in making informed decisions about sales 
-
 optimization, resource allocation, and customer engagement.The study examines key performance indicators (KPIs) across the business cycle, including identifying: The busiest and least 
-
 busy days and times of operation, to support better staff scheduling, inventory planning, and workflow management.The best-selling and worst-selling pizza products, which will help the 
-
 company understand customer preferences, streamline the menu, and improve product offerings. Average Order Value (AOV), to measure customer spending patterns and evaluate the 
-
 effectiveness of upselling or promotional strategies.Total revenue generated within the period under review, providing insight into the company’s financial performance.
-
 Sales seasonality in the year 2015, enabling the business to understand monthly and seasonal fluctuations that influence demand, and to plan targeted marketing activities accordingly.
-
 Ultimately, the goal of this project is to empower Plato’s Pizza with actionable insights—allowing the brand to strategically position itself for increased sales, enhanced customer 
-
 satisfaction, and more efficient operations.
 
  PROBLEM STATEMENT<img width="1027" height="158" alt="image" src="https://github.com/user-attachments/assets/96e8d2b5-0803-4e41-a2c6-eba069cafc32" />
@@ -53,11 +44,15 @@ RESEARCH OBJECTIVES<img width="1103" height="158" alt="image" src="https://githu
 This Resarch objective is to create an insightful sales performance report that would be useful for strategic business decision making that will enhance the company’s immediate and futuristic objectives performance towards realizing their mission and vision statements. 
 
 DATA CLEANING PROCESS <img width="1186" height="158" alt="image" src="https://github.com/user-attachments/assets/62f4014d-a170-48bd-af55-9e23e5951881" />
-I Created  a  Related Dax command function  that was used to determined the Pizzaprice that was not given
-The Average Order Value was determined using the Dax calcuated column
-Total Revenue was determined using the Calculated New Measure
-Creating and replicating the dashboard reports using , different visual tools, Card visuals plus calculated Measures, and Sigma values  ,Filters, Excel Pivot tables, images ,text box  amongst others
-Extracted , transformed and Loaded the four (4) tables into PBI via PQE from sourced Excel worksheets, ensuring a structured data set for analysis Reacreated the model cardinality  by connecting the sub dimentional  tables (Order id by date tab,l and Order ID by time table) to the Orders Table , after a default SNOW FLAKE model was established  by PBI  
+1. I Created  a  Related Dax command function  that was used to determined the Pizzaprice that was not given
+
+2 The Average Order Value was determined using the Dax calcuated column
+
+3. Total Revenue was determined using the Calculated New Measure
+
+4. i Created and replicated the dashboard reports using , different visual tools, Card visuals plus calculated Measures, and Sigma values  ,Filters, Excel Pivot tables, images ,text box  amongst others
+
+5. Hence, extracted , transformed and Loaded the four (4) tables into PBI via PQE from sourced Excel worksheets, ensuring a structured data set for analysis Reacreated the model cardinality  by connecting the sub dimentional  tables (Order id by date tab,l and Order ID by time table) to the Orders Table , after a default SNOW FLAKE model was established  by PBI  
 <img width="
       4358" height="186" alt="image" src="https://github.com/user-attachments/assets/abb21f2d-a7a1-493d-b190-8a0c84cf8cf4" />
 
@@ -87,15 +82,21 @@ PLATO’S PIZZA SALES INSIGHT (SEASONALITY TREND)<img width="2509" height="167" 
 
 DATA VISUALIZATION <img width="1067" height="167" alt="image" src="https://github.com/user-attachments/assets/010366eb-269b-43d9-b0cb-c1f68de358b4" />
 
+The structured related dataset was transformed into a ppictorial storey form, thereby relating the historical accounts of the rwa data into insightful key metrics with relation to their performances to the business for the year
+
 <img width="1981" height="943" alt="image" src="https://github.com/user-attachments/assets/074d4566-2d3f-4efa-9fc7-398cce12bc26" />
 
 RECOMMENDATION<img width="896" height="158" alt="image" src="https://github.com/user-attachments/assets/abe6e672-7d84-4019-b2cc-f6519c397a71" />
 
-I  would advice that Plato Pizza should adopt  and implement these strategies: for sustainability, growth and expansion:
-Understand the customers product preferences , terms as well as the time to avoid overstocking and persistent low sales on certain product categories 
-Analyze customers feed backs and identify pain points in order to improve product  values for customers satisfaction  as well as profits optimization
-Optimize marketing and sales efforts by targeting the right audience, enhancing brand visibility  ,offering  loyalty incentives, encourage Upsell and Cross sell and stay updated in sales trends for each of the product category and product lines.
-Finally , use sales metrics as key KPI's  to evaluate the  products sales performances on daily, weekly monthly, quarterly , half yearly and yearly for strategic business decision makings.
+I would advice that Plato Pizza should adopt  and implement these strategies for sustainability, growth and expansion:
+
+1. Understand the customers product preferences , terms as well as the time to avoid overstocking and persistent low sales on certain product categories 
+
+2. A continous critical analysis of customers feed backs and identification of pain points in order to improve product values for customers satisfaction  as well as profits optimization
+
+3. Optimize marketing and sales efforts by targeting the right audience, enhancing brand visibility  ,offering  loyalty incentives, encourage Upsell and Cross sell and staying updated on sales trends for each of the product category and product lines.
+
+4. Finally , use sales metrics as key KPI's  to evaluate the  products sales performances on daily, weekly monthly, quarterly , half yearly and yearly for strategic business decision makings.
 
 <img width="3718" height="434" alt="image" src="https://github.com/user-attachments/assets/60f8701e-6a80-4e26-8644-ca2da174df12" />
 
