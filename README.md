@@ -47,8 +47,17 @@ What seasonal patterns or fluctuations can be identified in Plato’s Pizza’s 
 RESEARCH OBJECTIVES<img width="1103" height="158" alt="image" src="https://github.com/user-attachments/assets/d4a5ccb3-c055-4d70-8bd2-6a4d1a75160b" />
 
 This Resarch objective is to create an insightful sales performance report that would be useful for strategic business decision making that will enhance the company’s immediate and futuristic objectives performance towards realizing their mission and vision statements. 
+Data cleaning process
+<img width="3680" height="325" alt="image" src="https://github.com/user-attachments/assets/bc91b88f-a11b-4a22-a621-616fd6bcdba2" />
+Created  a  Related Dax command function  that was used to determined the Pizzaprice that was not given
+The Average Order Value was determined using the Dax calcuated column
+Total Revenue was determined using the Calculated New Measure
+Creating and replicating the dashboard reports using , different visual tools, Card visuals plus calculated Measures, and Sigma values  ,Filters, Excel Pivot tables, images ,text box  amongst others
+![Uploading image.png…]()
+Extracted , transformed and Loaded the four (4) tables into PBI via PQE from sourced Excel worksheets, ensuring a structured data set for analysis Reacreated the model cardinality  by connecting the sub dimentional  tables (Order id by date tab,l and Order ID by time table) to the Orders Table , after a default SNOW FLAKE model was established  by PBI  
+<img width="4358" height="186" alt="image" src="https://github.com/user-attachments/assets/abb21f2d-a7a1-493d-b190-8a0c84cf8cf4" />
 
-Presentation of data cleaning processs, starting witha CSV Unclean data set in an excel spreadsheep
+ CSV Unclean data set in an excel spreadsheep(unstructured dataset)
 <img width="1999" height="897" alt="image" src="https://github.com/user-attachments/assets/5bc0849a-a138-4ce6-8d17-4a226c38861d" />
 
 
